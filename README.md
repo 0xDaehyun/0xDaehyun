@@ -78,10 +78,16 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xDaehyun&theme=tokyonight&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
 ## 🏆 BOJ & solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedaehyun11)](https://solved.ac/leedaehyun11/)  
-[![BOJ](http://mazandi.herokuapp.com/api?handle=leedaehyun11&theme=dark)](https://www.acmicpc.net/user/leedaehyun11)
+
+<div align="center" style="display:flex;gap:20px;">
+  <a href="https://solved.ac/leedaehyun11">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leedaehyun11" height="150" style="border:2px solid #444;border-radius:12px;"/>
+  </a>
+  <a href="https://www.acmicpc.net/user/leedaehyun11">
+    <img src="http://mazandi.herokuapp.com/api?handle=leedaehyun11&theme=dark" height="150" style="border:2px solid #444;border-radius:12px;"/>
+  </a>
+</div>
 
 ---
 
