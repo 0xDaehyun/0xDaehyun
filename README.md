@@ -5,6 +5,7 @@
     alt="👋 안녕하세요! → 이대현 입니다! → 👋 안녕하세요! 이대현 입니다."
   />
 </p>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=1800&pause=1000&center=true&vCenter=true&width=700&height=60&repeat=false&lines=%F0%9F%91%8B%20%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EC%9D%B4%EB%8C%80%ED%98%84%20%EC%9E%85%EB%8B%88%EB%8B%A4!;%F0%9F%91%8B%20%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%20%EC%9D%B4%EB%8C%80%ED%98%84%20%EC%9E%85%EB%8B%88%EB%8B%A4." />
 
 # 👨‍💻 이대현
 **`SW Developer` · `AI Engineer` · `Backend Engineer`**
