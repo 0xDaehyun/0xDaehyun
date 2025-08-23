@@ -81,10 +81,12 @@
 ## 🏆 BOJ & solved.ac
 
 <p align="center">
-  <a href="https://www.acmicpc.net/user/leedaehyun11">
-    <img src="https://img.shields.io/badge/BOJ-leedaehyun11-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <!-- solved.ac 티어 카드 (백준 티어 표시) -->
+  <a href="https://solved.ac/leedaehyun11">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leedaehyun11" height="150"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+  <!-- solved.ac 프로필 배지 -->
   <a href="https://solved.ac/leedaehyun11">
     <img src="https://img.shields.io/badge/solved.ac-Profile-00BC8C?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
