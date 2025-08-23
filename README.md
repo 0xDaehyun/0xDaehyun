@@ -1,58 +1,68 @@
-<!-- 헤더 배너 (선택) -->
+<!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lee%20Daehyun&fontSize=40&fontColor=ffffff)
 
-# 👋 안녕하세요, 이대현입니다
-**전북대학교 소프트웨어공학과 / AI · 웹 개발 관심 분야**
+# 👨‍💻 이대현
+**`SW Developer` · `AI Engineer` · `Backend Engineer`**
 
-- JBNU AI 경진대회, 알고리즘 문제풀이, OS 프리패칭 시뮬레이터 등 프로젝트 경험  
-- Web, AI, RecSys에 관심을 가지고 공부하고 있습니다  
-- 꾸준히 배운 것을 정리하고 공유합니다 ✍  
-
----
-
-## 🔗 Links
-[Portfolio](#) · [Blog](#) · [LinkedIn](#) · [Email](mailto:you@example.com)
+<!-- 프로필 이미지 (레포에 이미지 넣고 경로 수정) -->
+<!-- ![profile](./profile.png) -->
 
 ---
 
-## ⁉️ About Me
-- 소프트웨어공학 전공  
-- 교내/외 알고리즘 & AI 대회 다수 참가  
-- 동아리/스터디 통해 꾸준히 성장  
+### 👋 안녕하세요!  
+**유연한 사고와 적극적인 실행으로 문제를 해결하는 개발자**입니다.  
+
+백엔드와 AI 엔지니어링을 중심으로, **데이터와 시스템이 만나는 지점**에서 가치를 만들어갑니다.  
 
 ---
 
-## 🧩 Projects
-| 기간 | 프로젝트 | 한 줄 소개 | 역할/기술 |
-|---|---|---|---|
-| 2025.03–2025.06 | [지능형 프리패칭 시뮬레이터](#) | 사용자 앱 사용 패턴 기반 Prefetch | Python, scikit-learn, Tkinter |
-| 2025.05 | [텍스트 분류 모델](#) | AI vs Human 텍스트 판별 | PyTorch, Hugging Face |
-| 2024.11 | [교통사고 과실비율 판단](#) | 이미지/텍스트 판별·법령 안내 | Python, FastAPI, VLM |
+## 🚀 현재 집중 분야
+- Backend Development & API Design  
+- Machine Learning & Deep Learning  
+- Data Engineering & Analysis  
 
 ---
 
-## 📜 Certificates
-- SQLD (2024.09)  
-- OPIC IH (2024.08)  
-- 정보처리기사 (예정)  
+## 🎓 Education
+| 학교 | 전공 | 기간 |
+| --- | --- | --- |
+| 전북대학교 | **소프트웨어공학과** | `2025.03 ~ 현재` |
+| 전북대학교 | **생명공학부** | `2023.03 ~ 2025.02` |
 
 ---
 
-## ✍ Study / Activities
-- 알고리즘 스터디  
-- 논문 리뷰 스터디  
-- AI 인터뷰 준비  
+## 🏆 Certifications
+🥉 **SW역량인증제 브론즈(융합) 등급**  
+- 발급기관: 전북대학교 SW중심대학사업단  
+- 취득일: 2025.06.09  
+- 인증번호: 제2025-01017  
+- [합격증서 바로가기](./certificate.pdf)  
 
 ---
 
-## 🛠️ Tech Stacks
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+## ⚡ Tech Stack
+### **Languages**
+`Python` `Java` `C++` `SQL` `HTML/CSS`
+
+### **AI & Machine Learning**
+`PyTorch` `HuggingFace` `scikit-learn` `pandas` `numpy`
+
+### **Backend & Tools**
+`REST API` `GitHub Actions` `Docker` `PyCharm` `IntelliJ` `VS Code`
+
+### **Collaboration**
+`Git` `GitHub` `Code Review` `Documentation` `Notion`
+
+---
+
+## 🚀 Projects
+👉 [프로젝트 정리 (Notion)](https://www.notion.so/61aa0a0618074c0585b38624078f45a3?pvs=21)
+
+---
+
+## 💡 Side Project Ideas
+🧠 최근 구상한 아이디어들을 정리하고 있어요  
+👉 [개발 아이디어 모음 (Notion)](https://www.notion.so/59a6070698ff4f7ab6ddbdae21a7c771?pvs=21)
 
 ---
 
@@ -69,6 +79,10 @@
 
 ---
 
-## 📫 Contact
-- Email: you@example.com  
-- 기타 링크 추가 예정
+## 📬 Contact
+- **📧 Email**: [leedaehyun11@naver.com](mailto:leedaehyun11@naver.com)  
+- **💻 GitHub**: [0xDaehyun](https://github.com/0xDaehyun)
+
+---
+
+*Last updated: 2025년 8월 23일*
