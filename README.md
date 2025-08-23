@@ -1,7 +1,10 @@
-<!-- 👋 안녕하세요! → 이대현 입니다! → 👋 안녕하세요! 이대현 입니다. (앞 문장은 사라지고 다음 문장으로 교체) -->
+<!-- 헤더 배너 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lee%20Daehyun&fontSize=40&fontColor=ffffff)
+
+<!-- 타이핑 애니메이션 -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=1800&pause=700&center=true&vCenter=true&width=650&height=60&lines=%F0%9F%91%8B%20%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EC%9D%B4%EB%8C%80%ED%98%84%20%EC%9E%85%EB%8B%88%EB%8B%A4!;%F0%9F%91%8B%20%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%20%EC%9D%B4%EB%8C%80%ED%98%84%20%EC%9E%85%EB%8B%88%EB%8B%A4."
+    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=1800&pause=1000&center=true&vCenter=true&width=700&height=60&repeat=false&lines=%F0%9F%91%8B%20%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EC%9D%B4%EB%8C%80%ED%98%84%20%EC%9E%85%EB%8B%88%EB%8B%A4!;%F0%9F%91%8B%20%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%20%EC%9D%B4%EB%8C%80%ED%98%84%20%EC%9E%85%EB%8B%88%EB%8B%A4."
     alt="👋 안녕하세요! → 이대현 입니다! → 👋 안녕하세요! 이대현 입니다."
   />
 </p>
