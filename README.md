@@ -3,7 +3,7 @@
 
 <!-- 인사말 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=26&duration=2000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+안녕하세요!+이대현입니다.;백엔드+%26+AI+개발자를+꿈꾸며+성장하고+있습니다." alt="👋 안녕하세요! 이대현입니다." />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=26&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%9D%B4%EB%8C%80%ED%98%84%EC%9E%85%EB%8B%88%EB%8B%A4.;%EB%B0%B1%EC%97%94%EB%93%9C+%26+AI+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C+%EC%84%B1%EC%9E%A5%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4." alt="👋 안녕하세요! 이대현입니다." />
 </p>
 
 ---
