@@ -1,9 +1,9 @@
 <!-- 헤더 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Lee%20Daehyun&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<!-- 간단한 인사말 (애니메이션 타이핑) -->
+<!-- 인사말 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=26&duration=2000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+안녕하세요!+이대현입니다.;백엔드+%26+AI+개발자를+꿈꾸며+성장하고+있습니다." />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=26&duration=2000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+안녕하세요!+이대현입니다.;백엔드+%26+AI+개발자를+꿈꾸며+성장하고+있습니다." alt="👋 안녕하세요! 이대현입니다." />
 </p>
 
 ---
