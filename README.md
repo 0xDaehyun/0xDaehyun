@@ -81,14 +81,14 @@
 ## 🏆 BOJ & solved.ac
 
 <p align="center">
-  <!-- solved.ac 티어 카드 (백준 티어 표시) -->
+  <!-- solved.ac 티어 카드 -->
   <a href="https://solved.ac/leedaehyun11">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leedaehyun11" height="150"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- solved.ac 프로필 배지 -->
   <a href="https://solved.ac/leedaehyun11">
-    <img src="https://img.shields.io/badge/solved.ac-Profile-00BC8C?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/solved.ac-Profile-00BC8C?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
 </p>
 
