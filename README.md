@@ -1,6 +1,3 @@
-<!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lee%20Daehyun&fontSize=40&fontColor=ffffff)
-
 <!-- 타이핑 애니메이션 -->
 <p align="center">
   <img
