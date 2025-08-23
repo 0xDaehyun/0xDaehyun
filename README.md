@@ -80,14 +80,15 @@
 ---
 ## 🏆 BOJ & solved.ac
 
-<div align="center" style="display:flex;gap:20px;">
-  <a href="https://solved.ac/leedaehyun11">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leedaehyun11" height="150" style="border:2px solid #444;border-radius:12px;"/>
-  </a>
+<p align="center">
   <a href="https://www.acmicpc.net/user/leedaehyun11">
-    <img src="http://mazandi.herokuapp.com/api?handle=leedaehyun11&theme=dark" height="150" style="border:2px solid #444;border-radius:12px;"/>
+    <img src="https://img.shields.io/badge/BOJ-leedaehyun11-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-</div>
+  &nbsp;
+  <a href="https://solved.ac/leedaehyun11">
+    <img src="https://img.shields.io/badge/solved.ac-Profile-00BC8C?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 ---
 
