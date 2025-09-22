@@ -1,15 +1,3 @@
-# ✨ 이대현 | Backend & AI Developer  
-
-<!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&fontSize=0)
-
-<!-- 인사말 타이핑 애니메이션 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=26&duration=2500&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=👋+안녕하세요!;백엔드+%26+AI+개발자로+성장중인+이대현입니다.;데이터와+시스템이+만나는+곳에서+가치를+만듭니다." />
-</p>
-
----
-
 ## 🚀 About Me  
 - 🎓 **전북대학교 소프트웨어공학과** (2025 ~ )  
 - 🏆 교내 **SW·AI 경진대회·동아리 활동** 활발히 참여  
@@ -56,15 +44,6 @@
 - 🔹 **[Traffic Accident Ratio Judge](#)** — 이미지·텍스트 기반 과실비율 판정 + 법령 안내 (FastAPI, VLM)  
 
 👉 더보기: [프로젝트 정리 (Notion)](https://www.notion.so/61aa0a0618074c0585b38624078f45a3?pvs=21)
-
----
-
-## 📊 Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xDaehyun&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xDaehyun&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
 
