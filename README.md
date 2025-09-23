@@ -1,5 +1,5 @@
 ## 🏃 Activities
-- 🎓 전북대 소프트웨어공학과 학부생
+- 🎓 전북대학교 소프트웨어공학과 학부생
 
 - 🧑🏻‍💻 LG Aimers 7기 · 오프라인 본선 진출 (리조트 F&B 매출 예측: CatBoost / LightGBM / XGBoost, SMAPE·NMAE)
 
