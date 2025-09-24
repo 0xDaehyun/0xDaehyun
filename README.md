@@ -2,6 +2,7 @@
 - 🎓 전북대학교 소프트웨어공학과 학부생
 
 - 🧑🏻‍💻 LG Aimers 7기
+온라인 예선 100인 안에 선정
 오프라인 본선 진출 최종 29위
 (리조트 F&B 매출 예측 , 사용 모델 :CatBoost / LightGBM / XGBoost, SMAPE·NMAE)
 
