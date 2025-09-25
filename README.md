@@ -1,9 +1,10 @@
-# 안녕하세요! 성장을 즐기는 개발자 OOO입니다.
+# 안녕하세요! 문제해결을 즐기는 개발자 이대현입니다.
 
 ## 🏆 Experience & Competition
 
-### LG Aimers 7기 (202X.XX ~ 202X.XX)
-- 오프라인 본선 진출 (최종 29위 / 상위 3%)
+### LG Aimers 7기 (2025.07 ~ 2025.09)
+- 온라인 예선 private 20등 (최종 100인 본선 진출) 
+- 오프라인 본선 진출 (최종 29위)
 - 과제: 리조트 F&B(식음료) 매출 예측 AI 모델 개발
 - 역할: 데이터 전처리, 피처 엔지니어링 및 다중 부스팅 모델(CatBoost, LightGBM, XGBoost) 앙상블을 통한 예측 정확도 향상
 - 주요 기술: `Python`, `CatBoost`, `LightGBM`, `XGBoost`
