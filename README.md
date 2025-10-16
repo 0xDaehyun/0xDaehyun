@@ -1,39 +1,48 @@
-# 안녕하세요! 문제해결을 즐기는 벡엔드 개발자 이대현입니다.
+<div align="center">
 
-##  개발경험 
+# 세상을 바꾸고 싶은 이대현 입니다.
+소프트웨어 엔지니어링 · AI/ML · iOS · 풀스택
+
+</div>
+
+---
+
+## 🧭 개발경험
 
 ### LG Aimers 7기 (2025.07 ~ 2025.09)
-- 온라인 예선 private 20등 (최종 100인 본선 진출) 
-- 오프라인 본선 진출 (최종 29위)
-- 과제: 리조트 F&B(식음료) 매출 예측 AI 모델 개발
-- 역할: 데이터 전처리, 피처 엔지니어링 및 다중 부스팅 모델(CatBoost, LightGBM, XGBoost) 앙상블을 통한 예측 정확도 향상
-- 주요 기술: `Python`, `CatBoost`, `LightGBM`, `XGBoost`
+- 온라인 예선 **private 20등** (최종 100인 본선 진출)  
+- 오프라인 본선 **최종 29위**  
+- 과제: 리조트 F&B(식음료) **매출 예측 AI 모델** 개발  
+- 역할: 데이터 전처리, 피처 엔지니어링, **CatBoost/LightGBM/XGBoost 앙상블**로 정확도 향상  
+- 기술: `Python`, `CatBoost`, `LightGBM`, `XGBoost`
+
+### 맛집탐방 동아리 ‘푸디’ 웹 서비스 (회장 / 풀스택, 2024 ~ 현재)
+- 문제: 공지·신청·명단이 **카톡/인스타/폼에 분산** → 확인률·참여율 저하  
+- 해결: **단일 웹 서비스**로 통합 (신청/취소·대기자 관리, 일정 캘린더, 권한 분리)  
+- 관리자 기능: 공지, 블록 **순서/노출 관리**(데스크톱 DnD + 모바일 화살표 정렬),  
+  회원 명부 **CSV 업로드·업서트**, **엑셀 내보내기**, 이미지 첨부  
+- 효과: 공지 누락 감소, 신청 흐름 단순화로 **참여 장벽↓**, 운영 효율 **상승**  
+- 기술: `React`, `JavaScript(ES Modules)`, `Tailwind CSS`, `SQL`
 
 ---
 
 ## 🚀 Projects
 
-| Project                               | Description                                                                                                                            | Tech Stack                      |
-| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| 맛집탐방 동아리 '푸디' 웹 서비스 (회장) | 동아리 회장으로서 신청, 일정, 소통 등 기존의 불편사항을 해결하기 위해 웹 서비스 자체 개발 및 운영 | `React`, `JavaScript`, `SQL`    |
-| Quack Money (iOS 가계부 앱) | 캘린더 기반의 가계부 앱 개인 개발 (진행중). `Charts`를 이용한 시각화, `PhotosUI` 연동 기능 구현                                         | `Swift`, `SwiftUI`, `Charts`    |
-| LS증권 API 기반 자동매매 프로그램 | OpenAPI를 활용한 주식 자동매매 프로그램. GUI 개발 및 실시간 거래/감시 로그 기능 구현                                                  | `Python`, `Tkinter`             |
+| Project | Description | Tech Stack |
+|---|---|---|
+| **맛집탐방 동아리 '푸디' 웹 서비스 (회장)** | 신청·일정·소통의 불편을 **자체 웹 서비스**로 해결, 운영 자동화 | `React`, `JavaScript`, `SQL` |
+| **Quack Money (iOS 가계부 앱)** | 캘린더 기반 가계부(진행중). `Charts` 시각화, `PhotosUI` 연동 | `Swift`, `SwiftUI`, `Charts` |
+| **LS증권 API 자동매매** | OpenAPI 기반 자동매매, GUI 및 실시간 거래/감시 로그 | `Python`, `Tkinter` |
 
 ---
 
 ## 🧑‍💻 Leadership & Study
-
-- 맛집탐방 동아리 '푸디' 회장
-  - 동아리 운영 방식 개선 및 웹 서비스 개발을 통한 회원 만족도 증대
-- 학내 C++ 스터디 리더
-  - C++ 기초부터 심화까지 다루는 자체 커리큘럼 설계 및 수업 진행
-- 알고리즘 문제 해결
-  - Baekjoon 중심으로 C++를 활용하여 꾸준히 문제 해결 능력 향상
-  - 주요 분야: 그래프, 탐색(DFS/BFS), 스택/큐
+- ‘푸디’ **회장**: 운영 방식 개선 + 웹 서비스 도입으로 회원 만족도 향상  
+- **C++ 스터디 리더**: 기초~심화 자체 커리큘럼 설계 및 진행  
+- 알고리즘: Baekjoon 중심, **그래프/DFS·BFS/스택·큐** 꾸준 학습
 
 ---
 
 ## 🛠️ Skills
-
-- Languages: C++, Python, Swift, Java, JavaScript, SQL, Shell
-- Frameworks & Libraries: SwiftUI, React, Tkinter, LightGBM, XGBoost, CatBoost
+- Languages: `C++`, `Python`, `Swift`, `Java`, `JavaScript`, `SQL`, `Shell`  
+- Frameworks & Libraries: `SwiftUI`, `React`, `Tkinter`, `LightGBM`, `XGBoost`, `CatBoost`
