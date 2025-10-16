@@ -16,24 +16,14 @@
 - 역할: 데이터 전처리, 피처 엔지니어링, **CatBoost/LightGBM/XGBoost 앙상블**로 정확도 향상  
 - 기술: `Python`, `CatBoost`, `LightGBM`, `XGBoost`
 
-### 맛집탐방 동아리 ‘푸디’ 웹 서비스 (회장 / 풀스택, 2024 ~ 현재)
+### 맛집탐방 동아리 ‘푸디’ 웹 서비스 (직책: 회장 / 풀스택, 2024 ~ 현재)
 - 문제: 공지·신청·명단이 **카톡/인스타/폼에 분산** → 확인률·참여율 저하  
 - 해결: **단일 웹 서비스**로 통합 (신청/취소·대기자 관리, 일정 캘린더, 권한 분리)  
 - 관리자 기능: 공지, 블록 **순서/노출 관리**(데스크톱 DnD + 모바일 화살표 정렬),  
   회원 명부 **CSV 업로드·업서트**, **엑셀 내보내기**, 이미지 첨부  
 - 효과: 공지 누락 감소, 신청 흐름 단순화로 **참여 장벽↓**, 운영 효율 **상승**  
 - 기술: `React`, `JavaScript(ES Modules)`, `Tailwind CSS`, `SQL`
-
----
-
-## 🚀 Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **맛집탐방 동아리 '푸디' 웹 서비스 (회장)** | 신청·일정·소통의 불편을 **자체 웹 서비스**로 해결, 운영 자동화 | `React`, `JavaScript`, `SQL` |
-| **Quack Money (iOS 가계부 앱)** | 캘린더 기반 가계부(진행중). `Charts` 시각화, `PhotosUI` 연동 | `Swift`, `SwiftUI`, `Charts` |
-| **LS증권 API 자동매매** | OpenAPI 기반 자동매매, GUI 및 실시간 거래/감시 로그 | `Python`, `Tkinter` |
-
+- 
 ---
 
 ## 🧑‍💻 Leadership & Study
