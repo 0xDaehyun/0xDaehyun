@@ -1,7 +1,7 @@
 <div align="center">
 
 # 세상을 바꾸는 이대현 입니다.
-Backend · AI/ML · 풀스택
+Backend · AI/ML · WEB
 
 </div>
 
