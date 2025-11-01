@@ -23,7 +23,6 @@ Backend · AI/ML · WEB
   회원 명부 **CSV 업로드·업서트**, **엑셀 내보내기**, 이미지 첨부  
 - 효과: 공지 누락 감소, 신청 흐름 단순화로 **참여 장벽↓**, 운영 효율 **상승**  
 - 기술: `HTML`, `JavaScript`, `CSS`, `Firebase`
-- 
 ---
 
 ## 🧑‍💻 Leadership & Study
