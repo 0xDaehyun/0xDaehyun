@@ -34,4 +34,4 @@ Backend · AI/ML · WEB
 
 ## 🛠️ Skills
 - Languages: `C++`, `Python`, `Swift`, `Java`, `JavaScript`, `SQL`
-- Frameworks & Libraries: `SwiftUI`, `React`, `Tkinter`, `LightGBM`, `XGBoost`, `CatBoost`
+- Frameworks & Libraries: `React`, `Tkinter`, `LightGBM`, `XGBoost`, `CatBoost`
